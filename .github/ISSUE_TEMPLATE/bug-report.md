@@ -2,6 +2,7 @@
 name: Bug Report
 about: Report a bug
 title: Bug - [short description of the bug]
+labels: bug
 ---
 
 **Describe the bug**
