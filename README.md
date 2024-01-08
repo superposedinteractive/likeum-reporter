@@ -8,3 +8,8 @@ Report issues about the framework here. For game-specific bugs, report them to t
 
 ## Discussions
 If you want to discuss some specific aspects of the engine with a forum-like manner, feel free to do so!
+
+
+## Releases
+Anything in the releases tab is only the export templates for Likeum player.
+Most of the time you wont need to download these manually the SDK should handle it for you.
