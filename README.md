@@ -10,5 +10,5 @@ Report issues about the framework and docs here. For game-specific bugs, report 
 If you want to discuss some specific aspects of the engine with a forum-like manner, feel free to do so!
 
 ## Releases
-Anything in the releases tab is only the export templates for Likeum player.
+Anything in the releases tab are only the export templates for Likeum player.
 Most of the time you wont need to download these manually the SDK should handle it for you.
