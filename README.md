@@ -1,5 +1,5 @@
 # tracker
-The AIO issue and discussion tracker.
+The AiO issue and discussion tracker.
 
 [![Discord](https://img.shields.io/discord/1185386695328288768?style=social&logo=discord&label=Talk%20with%20the%20Community!)](https://discord.gg/Q9bPZbnNDj)
 
